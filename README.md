@@ -5,12 +5,12 @@
 ## :pushpin: Github status
 <div style="display: flex; flex-direction: row; align-items: center;flex-wrap: wrap">
     <div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yastme&show_icons=true&locale=en&layout=compact&token=${process.env.PAT_1}" alt="yastme" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joratenshi&show_icons=true&locale=en&layout=compact&token=${process.env.PAT_1}" alt="joratenshi" /></p>
 </div>
 <div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yastme&show_icons=true&locale=en&token=${process.env.PAT_1}" alt="yastme" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joratenshi&show_icons=true&locale=en&token=${process.env.PAT_1}" alt="joratenshi" /></p>
 </div>
     <div>
-      <p align="center"><img src="https://streak-stats.demolab.com/?user=yastme" alt="GitHub Streak"><p>
+      <p align="center"><img src="https://streak-stats.demolab.com/?user=joratenshi" alt="GitHub Streak"><p>
     </div>
 </div>
