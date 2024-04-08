@@ -1,6 +1,8 @@
-<--p align=center>
+## 📌 42 Cursus status
+
+<p align=center>
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jcallejo?1337Badge=off&UM6P=off" alt="jcallejo's 42 stats" /></a>
-</p-->
+</p>
 
 ## :pushpin: Github status
 <div style="display: flex; flex-direction: row; align-items: center;flex-wrap: wrap">
