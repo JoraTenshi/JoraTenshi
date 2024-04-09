@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoraTenshi.JoraTenshi](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=purple)" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoraTenshi.JoraTenshi](https://visitor-badge.laobi.icu/badge?page_id=Joratenshi.Visitor-badge&left_color=grey&right_color=purple)" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=800080&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+;+Welcome!;" />
