@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoraTenshi.JoraTenshi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+;+Welcome!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+;+Welcome!;" />
 </h1>
 
 ## 📌 42 Cursus status
