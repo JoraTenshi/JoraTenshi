@@ -16,9 +16,9 @@
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joratenshi&show_icons=true&locale=en&layout=compact&token=${process.env.PAT_1}" alt="joratenshi" /></p>
 </div>
 <div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joratenshi&show_icons=true&locale=en&token=${process.env.PAT_1}" alt="joratenshi" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joratenshi&show_icons=true&locale=en&token=${process.env.PAT_1}" alt="joratenshi&theme=midnight-purple" /></p>
 </div>
     <div>
-      <p align="center"><img src="https://streak-stats.demolab.com/?user=joratenshi" alt="GitHub Streak"><p>
+      <p align="center"><img src="https://streak-stats.demolab.com/?user=joratenshi&theme=midnight-purple" alt="GitHub Streak"><p>
     </div>
 </div>
