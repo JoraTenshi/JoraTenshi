@@ -1,5 +1,4 @@
 <img aling="rigt" src="https://visitor-badge.laobi.icu/badge?page_id=JoraTenshi.visitor" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1000&color=B01DF7&center=true&repeat=false&random=false&width=550&height=100&lines=HELLO+THERE!;WELCOME!)](https://git.io/typing-svg)
 
 ## 📌 42 Cursus status
 
