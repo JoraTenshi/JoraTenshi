@@ -1,4 +1,4 @@
-<img aling="rigt" src="https://visitor-badge.laobi.icu/badge?page_id=JoraTenshi.visitor" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoraTenshi.JoraTenshi" />
 
 ## 📌 42 Cursus status
 
